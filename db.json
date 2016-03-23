@@ -2,11 +2,11 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthapizza",
-      "image": "images/uthapizza.png",
+      "name": "Boost",
+      "image": "https://raw.githubusercontent.com/Chandrusekar/locstor/master/image/Boost.JPG",
       "category": "mains",
       "label": "Hot",
-      "price": "4.99",
+      "price": "410",
       "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
       "comments": [
         {
@@ -43,11 +43,11 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
-      "category": "appetizer",
+      "name": "Coconut oil",
+      "image": "https://raw.githubusercontent.com/Chandrusekar/locstor/master/image/Coconut%20hair%20oil.jpg",
+      "category": "oil",
       "label": "",
-      "price": "1.99",
+      "price": "50",
       "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
       "comments": [
         {
@@ -84,11 +84,11 @@
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "name": "Turmeric",
+      "image": "https://raw.githubusercontent.com/Chandrusekar/locstor/master/image/Turmeric.jpg",
       "category": "appetizer",
       "label": "New",
-      "price": "1.99",
+      "price": "25",
       "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
       "comments": [
         {
@@ -125,11 +125,11 @@
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
-      "category": "dessert",
+      "name": "Aniseeds",
+      "image": "https://raw.githubusercontent.com/Chandrusekar/locstor/master/image/aniseeds.jpg",
+      "category": "food",
       "label": "",
-      "price": "2.99",
+      "price": "70",
       "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms",
       "comments": [
         {
@@ -168,8 +168,8 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "name": "Beans",
+      "image": "https://raw.githubusercontent.com/Chandrusekar/locstor/master/image/beans.png",
       "label": "New",
       "price": "19.99",
       "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
@@ -178,8 +178,8 @@
   "leadership": [
     {
       "id": 0,
-      "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "name": "Boiled rice",
+      "image": "https://raw.githubusercontent.com/Chandrusekar/locstor/master/image/boiled%20rice.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
