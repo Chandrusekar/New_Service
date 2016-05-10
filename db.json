@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Boost",
-      "image": "http://192.168.1.49/image/Boost.JPG",
+      "image": "http://192.168.1.135/image/Boost.JPG",
       "category": "mains",
       "label": "Hot",
       "price": "410",
@@ -85,7 +85,7 @@
     {
       "id": 2,
       "name": "Turmeric",
-      "image": "http://192.168.1.49/image/Turmeric.jpg",
+      "image": "http://192.168.1.135/image/Turmeric.jpg",
       "category": "appetizer",
       "label": "New",
       "price": "25",
@@ -126,7 +126,7 @@
     {
       "id": 3,
       "name": "Aniseeds",
-      "image": "http://192.168.1.49/image/aniseeds.jpg",
+      "image": "http://192.168.1.135/image/aniseeds.jpg",
       "category": "food",
       "label": "",
       "price": "70",
@@ -167,7 +167,7 @@
        {
       "id": 4,
       "name": "Gram dal",
-      "image": "http://192.168.1.49/image/gram%20dal.jpg",
+      "image": "http://192.168.1.135/image/gram%20dal.jpg",
       "category": "appetizer",
       "label": "New",
       "price": "Rs: 150",
@@ -208,7 +208,7 @@
        {
       "id": 5,
       "name": "Beans",
-      "image": "http://192.168.1.49/image/beans.png",
+      "image": "http://192.168.1.135/image/beans.png",
       "category": "appetizer",
       "label": "New",
       "price": "Rs: 50",
