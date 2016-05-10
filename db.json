@@ -44,7 +44,7 @@
     {
       "id": 1,
       "name": "Coconut oil",
-      "image": "http://192.168.1.49/image/Coconut%20hair%20oil.jpg",
+      "image": "http://192.168.1.135/image/Coconut%20hair%20oil.jpg",
       "category": "oil",
       "label": "",
       "price": "50",
